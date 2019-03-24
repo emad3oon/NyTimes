@@ -7,7 +7,6 @@ import android.content.Context;
 import android.util.Log;
 
 import com.example.nytimes.utils.Utils;
-import com.pnikosis.materialishprogress.ProgressWheel;
 
 import androidx.annotation.NonNull;
 import io.reactivex.android.schedulers.AndroidSchedulers;
